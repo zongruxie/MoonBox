@@ -18,10 +18,10 @@
         <lombok.version>1.18.8</lombok.version>
         <sandbox.api.version>1.2.0</sandbox.api.version>
         <org.slf4j.version>1.7.24</org.slf4j.version>
-        <logback.version>1.2.1</logback.version>
+        <logback.version>1.2.13</logback.version>
         <ttl.version>2.10.2</ttl.version>
         <fastjson.version>1.2.83</fastjson.version>
-        <commons-lang3.version>3.6</commons-lang3.version>
+        <commons-lang3.version>3.18.0</commons-lang3.version>
         <commons-csv.version>1.7</commons-csv.version>
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
