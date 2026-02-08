@@ -22,19 +22,19 @@
         <spring.version>5.1.10.RELEASE</spring.version>
         <tomcat.version>8.5.54</tomcat.version>
 		<org.slf4j.version>1.7.24</org.slf4j.version>
-		<logback.version>1.2.1</logback.version>
-        <elasticsearch.version>7.17.1</elasticsearch.version>
-        <jackson-core.version>2.14.0</jackson-core.version>
+		<logback.version>1.2.13</logback.version>
+        <elasticsearch.version>8.19.8</elasticsearch.version>
+        <jackson-core.version>2.15.0</jackson-core.version>
         <jackson-databind.version>2.14.0</jackson-databind.version>
-        <testng.version>6.14.3</testng.version>
+        <testng.version>7.5.1</testng.version>
         <commons-collections4.version>4.1</commons-collections4.version>
-        <okhttp.version>3.9.0</okhttp.version>
+        <okhttp.version>4.9.2</okhttp.version>
         <!--打包相关-->
         <maven.surefire.plugin>3.0.0-M4</maven.surefire.plugin>
         <maven.compiler.plugin.version>3.8.0</maven.compiler.plugin.version>
         <jsch.version>0.1.55</jsch.version>
-        <apache.common.lang.version>3.12.0</apache.common.lang.version>
-        <apache.common.io.version>2.11.0</apache.common.io.version>
+        <apache.common.lang.version>3.18.0</apache.common.lang.version>
+        <apache.common.io.version>2.14.0</apache.common.io.version>
         <lombok.version>1.18.8</lombok.version>
         <sandbox.api.version>1.2.0</sandbox.api.version>
         <guava.version>23.0</guava.version>
